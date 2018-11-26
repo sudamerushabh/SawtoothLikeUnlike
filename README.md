@@ -1,4 +1,4 @@
-# SawtoothLikeUnlike
+# Hyperledger Sawtooth Like/Unlike Application
 Simple use case of Hyperledger Sawtooth by making Like/Unlike Application.
 
 # Introduction
